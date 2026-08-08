@@ -1,3 +1,8 @@
+link to problem: https://leetcode.com/problems/max-consecutive-ones/
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Solution:
 class Solution(object):
     def findMaxConsecutiveOnes(self, nums):
         """
