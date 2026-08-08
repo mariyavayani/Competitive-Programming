@@ -2,33 +2,16 @@
 
 A collection of my solutions to problems from LeetCode, HackerRank, Codeforces, and other competitive programming platforms.
 
-## 📁 Repository Structure
-
-```
-.
-├── LeetCode/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-├── HackerRank/
-│   ├── Algorithms/
-│   ├── Data-Structures/
-│   └── Problem-Solving/
-├── Codeforces/
-│   ├── Div2/
-│   └── Div3/
-└── README.md
-```
 
 ## 🗂️ Naming Convention
 
 Each solution file follows the pattern:
 
 ```
-<ProblemNumber>-<problem-name-in-kebab-case>.<ext>
+<platform>-<ProblemNumber>-<problem-name-in-kebab-case>.<ext>
 ```
 
-Example: `1-two-sum.py`, `park-49-max-subarray.cpp`
+Example: `LEETCODE-1-two-sum.py`
 
 ## 🚀 Topics Covered
 
@@ -56,7 +39,6 @@ Example: `1-two-sum.py`, `park-49-max-subarray.cpp`
 
 - C++
 - Python
-- Java
 
 ## 📝 Solution Format
 
