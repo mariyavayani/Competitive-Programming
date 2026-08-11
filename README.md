@@ -31,7 +31,7 @@ Example: `LEETCODE-1-two-sum.py`
 
 | Platform    | Solved | Total |
 |-------------|--------|-------|
-| LeetCode    | 3      | -     |
+| LeetCode    | 4      | -     |
 | HackerRank  | 0      | -     |
 | Codeforces  | 0      | -     |
 
