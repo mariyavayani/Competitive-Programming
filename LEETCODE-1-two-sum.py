@@ -1,4 +1,8 @@
-1. Two Sum
+# link to problem: https://leetcode.com/problems/two-sum/description/
+# Approach: Brute force — check every pair of elements for the target sum
+# Time Complexity: O(n^2)
+# Space Complexity: O(1)
+# Solution:
 class Solution(object):
     def twoSum(self, nums, target):
         """
